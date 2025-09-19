@@ -5,5 +5,8 @@ This is a test repo for 4320
 ## This is a Sub Header
 Here is the body!
 
-### THis is a third header
+### This is a third header
 This tutorial is going well
+
+#### This is my fourth header
+We are looking at branching in Git! Cool!
